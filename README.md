@@ -1,2 +1,2 @@
 # olhafedorova.github.io
-My web site
+My personal web site
